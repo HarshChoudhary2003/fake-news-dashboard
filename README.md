@@ -1,3 +1,4 @@
+## Live Link:----- https://xv2eckbtznktxeq5omn4cj.streamlit.app/
 # 📰 Fake News Detection and Data Explorer Dashboard
 
 ## Project Overview
@@ -49,7 +50,7 @@ You need Python (3.7+) installed on your system.
 
 3.  **Ensure Data Files are Present:**
     Make sure the following files are in your project directory:
-    * `creative_app.py` (The main application file)
+    * `app.py` (The main application file)
     * `Fake.csv`
     * `True.csv`
 
