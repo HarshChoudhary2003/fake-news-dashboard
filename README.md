@@ -60,7 +60,7 @@ You need Python (3.7+) installed on your system.
     Execute the main Python file using the Streamlit CLI.
 
     ```bash
-    streamlit run creative_app.py
+    streamlit run app.py
     ```
 
 2.  **Access the App:**
