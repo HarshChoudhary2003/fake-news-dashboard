@@ -72,7 +72,7 @@ The fake news classification relies on a **text processing pipeline** trained on
 
 * **Vectorizer:** **TF-IDF (Term Frequency-Inverse Document Frequency)** is used to convert the article text into a numerical format, capturing the importance of words.
 * **Classifier:** A **Logistic Regression** model is trained on the vectorized text to classify the article content.
-* **Training:** The model training occurs automatically on the first launch of the `creative_app.py` file and is cached, so it does not re-train on every refresh.
+* **Training:** The model training occurs automatically on the first launch of the `app.py` file and is cached, so it does not re-train on every refresh.
 
 ## ✍️ Usage Instructions
 
